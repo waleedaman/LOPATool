@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/Logo_Uni-Kassel.png</file>
+    </qresource>
+</RCC>
